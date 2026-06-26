@@ -1,0 +1,4 @@
+The colaborators of this project are:
+Jason Gomez: Network architect & security specialist / iot node & protocol developer
+
+Emily Saenz: Virtualization & Containerization Engineer / Information system & API Developer
